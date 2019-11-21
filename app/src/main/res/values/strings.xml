@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="weight_in_kg">Weight in Kg:</string>
+    <string name="hello_my_world">Hello my world</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="height_in_cm">Height in CM:</string>
+</resources>

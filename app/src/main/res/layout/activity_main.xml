@@ -24,7 +24,7 @@
         android:id="@+id/output_BMI"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/calculate_your_bmi"
+        android:text="Calculate your BMI"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintLeft_toLeftOf="parent"

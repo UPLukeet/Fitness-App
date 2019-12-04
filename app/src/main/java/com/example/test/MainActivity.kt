@@ -17,12 +17,13 @@ class MainActivity : AppCompatActivity() {
         val height = findViewById(R.id.input_height) as EditText
 
         btnChangeText.setOnClickListener {
-           val bmiWeight = weight.text.toString().toInt()
-           val bmiHeight = height.text.toString().toInt()
-           val bmiCalc =  bmiWeight /  bmiHeight /  bmiHeight * 10000
-            tvBMI.text = bmiCalc.toString()
+                val bmiWeight = weight.text.toString().toDouble()
+                val bmiHeight = height.text.toString().toInt()
+                val bmiCalc = bmiWeight / bmiHeight / bmiHeight * 10000
+                tvBMI.text = "BMI:" + bmiCalc.toInt().toString()
+            }
+
         }
 
-    }
 
-}
+    }

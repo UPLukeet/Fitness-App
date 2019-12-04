@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Test</string>
+    <string name="app_name">Fitness App</string>
     <string name="weight_in_kg">Weight in Kg:</string>
     <string name="Calculate_your_BMI">Calculate your BMI</string>
     <string name="calculate_bmi">Calculate BMI</string>

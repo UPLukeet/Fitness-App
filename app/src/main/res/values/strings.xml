@@ -4,4 +4,9 @@
     <string name="Calculate_your_BMI">Calculate your BMI</string>
     <string name="calculate_bmi">Calculate BMI</string>
     <string name="height_in_cm">Height in CM:</string>
+    <string-array name="gender_list">
+        <item>Select gender...</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
 </resources>
